@@ -1,0 +1,13 @@
+tag syntax
+<tagname>content</tagname> Element names surrounded by angle brackets
+<h1>About Us</h1>          Normally comes in pairs
+<p>This is a paragraph</p> End tag is usually the same but with a forward slash
+<br/> is a type of self closing tag     Some tags close themselves they are remenants of XHTML
+<br> fine in html5
+tag attributes edit said tags
+    - all tags have attributes
+    - provides info about an element
+    - placed at the start tag
+    - key/value pairs (id="someld")
+
+Structuring these websites we use folders to store material such as images for the image
